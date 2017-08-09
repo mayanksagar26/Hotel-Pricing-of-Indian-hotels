@@ -1,0 +1,2 @@
+# Hotel-Pricing-of-Indian-hotels
+This analysis is about the hotel room rent pricing in the Indian market considering many factors and how they are affecting them. In this analysis we will take insights from different graphs, histograms and plots drawn between the room rent of hotel versus different other factors such as whether the hotel has facilities like swimming pool, free Wi-Fi, free breakfast or not, whether the hotel capacity has an impact on the price of room etc.
